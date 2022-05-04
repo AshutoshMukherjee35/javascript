@@ -1,2 +1,2 @@
-Simple MODAL prepared using babel, JS, SCSS as the main techstack.
+Simple MODAL prepared using babel, JS, Jasmine, SCSS, HTML as the main techstack.
 
